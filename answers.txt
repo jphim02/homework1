@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+A merge is when you are joining a source branch into a target branch.
+A rebase is when you are integrating changes from one branch onto another.
